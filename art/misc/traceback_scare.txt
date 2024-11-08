@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "C:\Season10\Halloween\haunted_house.py", line 170, in <module>
+    the_final_room()
+  File "C:\Season10\Halloween\haunted_house.py", line 128, in the_lobby
+    the_final_room()
+  File "C:\Season10\Halloween\haunted_house.py", line 142, in lobby_navigator
+    the_final_room()
+    ^^^^^^^
+NameError: name 'the_final_room()' is not defined
