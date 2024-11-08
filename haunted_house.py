@@ -458,7 +458,6 @@ while(True):
 	# HOME
 	clear_screen()
 	print(art.text2art("RPUG\nHAUNTED\nHOUSE", font="skeleton"))
-	print("In this haunted house, the probability of survival is like a normal distribution... it peaks right around zero!\n")
 	input("Press Enter to begin...")
 	clear_screen()
 
